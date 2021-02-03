@@ -1,6 +1,6 @@
 #3v3 Power
 
-<img src = "https://github.com/Sandeep-BlackHat/RaspberryPi_World/blob/main/src/img/3v3.png" width="20" height="20"/>
+<img src = "https://github.com/Sandeep-BlackHat/RaspberryPi_World/blob/main/src/img/3v3.png" width="720" height="1080"/>
 
 ```css
 All Raspberry Pi models since the B+ can provide up to 500mA on the 3v3 pins,
