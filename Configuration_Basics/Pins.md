@@ -1,7 +1,7 @@
 #3v3 Power
 
 <p >
-<img src = "https://github.com/Sandeep-BlackHat/RaspberryPi_World/blob/main/src/img/3v3.png" width="400" height="400" align = "right"/>
+<img src = "https://github.com/Sandeep-BlackHat/RaspberryPi_World/blob/main/src/img/3v3.png" width="400" height="500" align = "right"/>
 All Raspberry Pi models since the B+ can provide up to 500mA on the 3v3 pins,
 thanks to a switching regulator. In some cases it may be possible to draw more but,
 due to lack of documentation and testing on the actual limits,
